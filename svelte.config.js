@@ -19,7 +19,7 @@ const config = {
       lib: 'src/lib',
     },
     paths: {
-      base: dev ? '' : '/your-repo-name',
+      base: dev ? '' : '/portfolio',
     },
   },
 };
